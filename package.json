@@ -1,0 +1,21 @@
+{
+  "name": "epsgvn",
+  "version": "0.0.1",
+  "description": "This lib to get epsg from vn code",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "vnepsg"
+  ],
+  "author": "cuonglee",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  }
+}
