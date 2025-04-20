@@ -1,6 +1,6 @@
 {
   "name": "epsgvn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This lib to get epsg from vn code",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
